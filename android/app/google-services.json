@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005029508161",
+    "project_id": "loginregistration-cddbb",
+    "storage_bucket": "loginregistration-cddbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005029508161:android:9428fa7a36adce570bf2c0",
+        "android_client_info": {
+          "package_name": "com.example.my_secure_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKHLgXrkurTh7y1qAq1m-6emEMcX5GeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
